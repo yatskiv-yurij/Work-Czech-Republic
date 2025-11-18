@@ -1,0 +1,19 @@
+<svg width="43" height="246.99999999999997" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="249" width="45" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="16" rx="16.5" id="svg_1" cy="18.579359" cx="21.692016" stroke-width="0" stroke="#000" fill="#a80707"/>
+  <ellipse ry="16" rx="16.5" id="svg_2" cy="18.579359" cx="21.692016" stroke-width="0" stroke="#000" fill="#a80707"/>
+  <ellipse ry="16" rx="16.5" id="svg_3" cy="225.579359" cx="21.692016" stroke-width="0" stroke="#000" fill="#a80707"/>
+  <line stroke="#000" stroke-width="2" stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="206.0779" x2="21.775105" y1="37.579359" x1="20.775105" stroke-opacity="null" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="14" id="svg_5" y="22.645013" x="17.833911" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">1</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="14" id="svg_6" y="229.097131" x="17.833911" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">2</text>
+ </g>
+</svg>
